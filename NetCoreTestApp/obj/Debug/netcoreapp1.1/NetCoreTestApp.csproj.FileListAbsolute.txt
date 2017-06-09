@@ -6,3 +6,4 @@ C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestA
 C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp1.1\NetCoreTestApp.AssemblyInfo.cs
 C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp1.1\NetCoreTestApp.dll
 C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp1.1\NetCoreTestApp.pdb
+c:\users\danie\documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp1.1\NetCoreTestApp.csprojResolveAssemblyReference.cache
