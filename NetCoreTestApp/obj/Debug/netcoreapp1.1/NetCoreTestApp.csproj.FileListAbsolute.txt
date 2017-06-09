@@ -1,0 +1,8 @@
+C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\bin\Debug\netcoreapp1.1\NetCoreTestApp.deps.json
+C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\bin\Debug\netcoreapp1.1\NetCoreTestApp.runtimeconfig.json
+C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\bin\Debug\netcoreapp1.1\NetCoreTestApp.runtimeconfig.dev.json
+C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\bin\Debug\netcoreapp1.1\NetCoreTestApp.dll
+C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\bin\Debug\netcoreapp1.1\NetCoreTestApp.pdb
+C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp1.1\NetCoreTestApp.AssemblyInfo.cs
+C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp1.1\NetCoreTestApp.dll
+C:\Users\danie\Documents\visual studio 2017\Projects\NetCoreTestApp\NetCoreTestApp\obj\Debug\netcoreapp1.1\NetCoreTestApp.pdb
